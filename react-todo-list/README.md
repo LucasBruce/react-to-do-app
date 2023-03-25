@@ -11,3 +11,5 @@ start aplicação:
 #Passo2: npm run build;
 
 #Passo3: npm run start;
+
+#teste
